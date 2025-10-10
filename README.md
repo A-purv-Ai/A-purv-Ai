@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-<!--
-**A-purv-Ai/A-purv-Ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
 # 💫 About Me:
 🔭 I’m currently working on a Machine Learning & Data Science project: ISRO Launch Success Trend Analysis & Predictions<br>👯 I’m looking to collaborate on: AI Engineering & Data Science projects<br>🤝 I’m looking for help with: real-world career opportunities to put my skills to use for solving problems for organizations<br>🌱 I’m currently learning: Minor in AI Engineering<br>💬 Ask me about: Data Analytics, Data Science, AI Engineering, Mechanical Design, Manufacturing & Quality Control<br>⚡ Fun fact: Well! How many should I say -<br>1. I used to measure manufacturing tolerances in millimeters; now I measure model performance in p-values<br>2. I went from designing physical gears to engineering virtual neural networks.<br>3. My toolbox now includes pandas and TensorFlow alongside calipers and CAD.<br><br>Mechanical Engineer teaching machines how to predict their own failures—providing industrial machines a voice through data.
 
@@ -25,5 +20,4 @@ Here are some ideas to get you started:
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=A-purv-AI&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
