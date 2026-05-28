@@ -35,14 +35,14 @@
 
 ## Projects
 
-| Industry | Details | Status |
+| Domain | Details | Status |
 |---|---|---|
 | Space & Aerospace Risk Analytics | [View Portfolio](https://a-purv-ai.github.io) | ✅ Live |
-| Equity Research & Portfolio Analytics | [View Portfolio](https://a-purv-ai.github.io) | ✅ Live |
+| Financial Data Pipeline & Performance Analytics | [View Portfolio](https://a-purv-ai.github.io) | ✅ Live |
+| Financial Earnings Analytics Pipeline | Repo Coming Up | 🔧 |
 | Enterprise Productivity & NLP | Repo Coming Up | 🔧 |
-| Financial Performance Analytics | Repo Coming Up | 🔧 |
-| Business Intelligence | Repo Coming Up | 🔜 |
-| Agentic AI | Repo Coming Up | 🔜 |
+| Analytics Engineering | Repo Coming Up | 🔧 |
+| Agentic AI | Repo Coming Up | 🔧 |
 
 ---
 
