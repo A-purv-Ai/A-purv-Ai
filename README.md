@@ -38,7 +38,7 @@
 | Domain | Details | Status |
 |---|---|---|
 | Space & Aerospace Risk Analytics | [View Portfolio](https://a-purv-ai.github.io) | ✅ Live |
-| Financial Data Pipeline & Performance Analytics | [View Portfolio](https://a-purv-ai.github.io) | ✅ Live |
+| Market Data Pipeline & Performance Analytics | [View Portfolio](https://a-purv-ai.github.io) | ✅ Live |
 | Financial Earnings Analytics Pipeline | Repo Coming Up | 🔧 |
 | Enterprise Productivity & NLP | Repo Coming Up | 🔧 |
 | Analytics Engineering | Repo Coming Up | 🔧 |
