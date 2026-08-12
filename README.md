@@ -6,7 +6,7 @@
 
 **Open to:** Analytics Engineering and Data Analyst roles where engineering rigour meets business context
 
-**Education:** Major in AI — IIT Ropar (completed April 2026)
+**Education:** Major in AI, IIT Ropar (completed June 2026)
 
 **Ask me about:** Data Analytics, Analytics Engineering, Business Intelligence, Mechanical Design, Manufacturing & Quality Control
 
