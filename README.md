@@ -80,6 +80,7 @@
 
 ## 📊 GitHub Stats
 
+<!-- Main GitHub Stats: Tracks total stars, commits, PRs, issues, and overall user rank -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=A-purv-AI&theme=dark&hide_border=false&include_all_commits=true&count_private=true">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=A-purv-AI&theme=default&hide_border=false&include_all_commits=true&count_private=true">
@@ -87,17 +88,11 @@
 </picture>
 <br />
 
+<!-- GitHub Contribution Streak: Tracks current active daily streak, longest streak record, and aggregate contributions -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://nirzak-streak-stats.vercel.app/?user=A-purv-AI&theme=dark&hide_border=false">
   <source media="(prefers-color-scheme: light)" srcset="https://nirzak-streak-stats.vercel.app/?user=A-purv-AI&theme=default&hide_border=false">
   <img alt="GitHub Streak" src="https://nirzak-streak-stats.vercel.app/?user=A-purv-AI&theme=default&hide_border=false">
-</picture>
-<br />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=A-purv-AI&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=A-purv-AI&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-purv-AI&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
 </picture>
 
 ### ✍️ Random Dev Quote
