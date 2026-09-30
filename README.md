@@ -2,7 +2,7 @@
 
 # About Me
 
-**Collaborate on:** Analytics Engineering, Data Analysis, and BI projects with measurable business impact
+**Collaborate on:** Analytics Engineering, Data Analysis, Data Engineering, and BI projects with measurable business impact.
 
 **Open to:** Analytics Engineering and Data Analyst roles where engineering rigour meets business context
 
@@ -10,16 +10,16 @@
 
 **Ask me about:** Data Analytics, Analytics Engineering, Business Intelligence, Mechanical Design, Manufacturing & Quality Control
 
-⚡ **Fun facts:**
+**Fun facts:**
 1. Once measured manufacturing tolerances in microns at an aerospace shop in the US; now measures model confidence intervals for risk predictions.
-2. Ran DMAIC capacity studies on physical production lines before building ML pipelines — turns out both are just finding signal in noisy systems.
-3. Built 4 CapEx business cases in the USA, EU & India; tools changed with territory, the analytical logic never did.
+2. Ran DMAIC capacity studies on physical production lines before building ML pipelines; turns out both are primarily finding signal in noisy systems.
+3. Built 4 CapEx business cases in the USA, EU & India; tools changed with territory, but reasoning skills remained.
 
-> *Rooted in data-driven decision making across operations, product, manufacturing, and AI.*
+> *Rooted in data-driven decision-making across operations, product, manufacturing, and AI.*
 
 ---
 
-## 💼 Impact Highlights
+## Impact Highlights
 
 - Addressed data blindness in a live production environment, enabling visibility via data sourcing, into operational conditions that previously went unmonitored.
 - Delivered a CapEx analysis that directly informed a procurement decision, built on structured data modelling and process benchmarking
@@ -46,7 +46,7 @@
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 **Languages & Query**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -80,12 +80,38 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=A-purv-AI&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=A-purv-AI&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=A-purv-AI&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=A-purv-AI&theme=dark&hide_border=false&include_all_commits=true&count_private=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=A-purv-AI&theme=default&hide_border=false&include_all_commits=true&count_private=true">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=A-purv-AI&theme=default&hide_border=false&include_all_commits=true&count_private=true">
+</picture>
+<br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://nirzak-streak-stats.vercel.app/?user=A-purv-AI&theme=dark&hide_border=false">
+  <source media="(prefers-color-scheme: light)" srcset="https://nirzak-streak-stats.vercel.app/?user=A-purv-AI&theme=default&hide_border=false">
+  <img alt="GitHub Streak" src="https://nirzak-streak-stats.vercel.app/?user=A-purv-AI&theme=default&hide_border=false">
+</picture>
+<br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=A-purv-AI&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=A-purv-AI&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-purv-AI&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+</picture>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=A-purv-AI&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
+  <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default">
+  <img alt="Random Dev Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default">
+</picture>
+
+### 🔝 Top Contributed Public Repositories
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-contributor-stats.vercel.app/api?username=A-purv-AI&limit=5&theme=dark&combine_all_yearly_contributions=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-contributor-stats.vercel.app/api?username=A-purv-AI&limit=5&theme=default&combine_all_yearly_contributions=true">
+  <img alt="Top Contributed Public Repositories" src="https://github-contributor-stats.vercel.app/api?username=A-purv-AI&limit=5&theme=default&combine_all_yearly_contributions=true">
+</picture>
