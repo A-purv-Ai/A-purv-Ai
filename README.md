@@ -11,11 +11,11 @@
 **Ask me about:** Data Analytics, Analytics Engineering, Business Intelligence, Mechanical Design, Manufacturing & Quality Control
 
 ⚡ **Fun facts:**
-1. Once measured manufacturing tolerances in microns at an aerospace shop in the US; now measures model confidence intervals for space launch risk predictions.
+1. Once measured manufacturing tolerances in microns at an aerospace shop in the US; now measures model confidence intervals for risk predictions.
 2. Ran DMAIC capacity studies on physical production lines before building ML pipelines — turns out both are just finding signal in noisy systems.
-3. Built 4 CapEx business cases in USA, EU & India; tools changed with territory, the analytical logic never did.
+3. Built 4 CapEx business cases in the USA, EU & India; tools changed with territory, the analytical logic never did.
 
-> *Rooted in data-driven decision making across manufacturing, finance, and AI.*
+> *Rooted in data-driven decision making across operations, product, manufacturing, and AI.*
 
 ---
 
